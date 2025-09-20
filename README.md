@@ -23,6 +23,7 @@ irm christitus.com/win | iex
 ### Tools:
 - Office Tool from /YerongAI/Office-Tool :[Office Tools - Releases](https://github.com/YerongAI/Office-Tool/releases/tag/v10.26.36.0)
 - Anhdvboot 25.2.7 (Windows USB Boot): [Anhdv_Boot_Free - Mediafire](https://www.mediafire.com/folder/54mfxlkkahnw1/Anhdv_Boot_Free)
+- Windows Loader: [Windows Loader.exe](https://github.com/0nix210/windows-loader-by-daz/raw/refs/heads/main/Windows%20Loader.exe)
 - Microsoft Activation Script (Activate Windows - Office 365 script) from massgrave: Run this command in PowerShell (Administrator):
 ```PowerShell
 irm https://get.activated.win | iex
@@ -36,5 +37,7 @@ irm https://get.activated.win | iex
 ---
 ### Beautify/Customizations:
 - Windhawk: https://windhawk.net/
-- MyDockFinder
-- Rainmeter
+- MyDockFinder: [MyDockFinder_Cracked_Ver_1.9.7.4.rar](https://github.com/jtlw99/mydockfinder-steam-free/releases/download/1.9.7.4/MyDockFinder_Cracked_Ver_1.9.7.4.rar)
+- Rainmeter: [Rainmeter Download](https://github.com/rainmeter/rainmeter/releases/download/v4.5.23.3836/Rainmeter-4.5.23.exe)
+- 7tsp GUI: [Download 7tsp GUI](https://7tspgui.com/wp-content/uploads/2025/01/7tsp-GUI-v0.6.zip)
+- OldNewExplorer: [OldNewExplorer Download - MajorGeeks](https://www.majorgeeks.com/mg/getmirror/oldnewexplorer,1.html)
