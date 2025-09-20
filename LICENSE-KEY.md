@@ -71,35 +71,8 @@ and Windows from massgrave repo at [massgrave.dev/docs](https://github.com/massg
 | HomePremium  | X9HTF-MKJQQ-XK376-TJ7T4-76PKF | Retail   |
 | HomePremiumN | KJ6TP-PF9W2-23T3Q-XTV7M-PXDT2 | Retail   |
 | Starter      | X9PYV-YBQRV-9BXWV-TQDMK-QDWK4 | Retail   |
-| Ultimate     | VMCB9-FDRV6-6CDQM-RV23K-RP8F| 7 | Retail   |
+| Ultimate     | VMCB9-FDRV6-6CDQM-RV23K-RP8F7 | Retail   |
 | UltimateN    | CVX38-P27B4-2X8BT-RXD4J-V7CKX | Retail   |
-
-### Windows Server 2008
-| Edition                        | Generic Key                   | Key Type   |
-|--------------------------------|-------------------------------|------------|
-| ServerComputeCluster           | 24FV9-H7JW8-C8Q6X-BQKMK-K977J | Retail     |
-| ServerDatacenter               | 6QBHY-DXTPJ-T9W3P-DTJXX-4VQMB | Retail     |
-| ServerDatacenterV              | 83TWG-TD3TC-HRDP2-K93FJ-Y34YC | OEM:NONSLP |
-| ServerEnterprise               | MRB7H-QJRHG-FXTBR-B2Q2M-8WMTJ | Retail     |
-| ServerEnterpriseIA64           | H4VB6-QPRWH-VDCYM-996P8-MHKFY | OEM:NONSLP |
-| ServerEnterpriseV              | H8H7M-HDPQT-PJHQF-M7B83-9CVGV | Retail     |
-| ServerHomePremium              | RGBMC-PQBVF-94Q9K-HD63B-VY6MP | Retail     |
-| ServerHomeStandard             | 6C8KR-MD3QK-9GWFW-44CY2-W9CBM | Retail     |
-| ServerMediumBusinessManagement | 7XRBY-6MP2K-VQPT8-F37JV-YYQ83 | Retail     |
-| ServerMediumBusinessMessaging  | 6PDTD-JK48J-662TF-8J2QV-R4CRB | Retail     |
-| ServerMediumBusinessSecurity   | D694V-CMWKH-PY92X-PFQKQ-JCB69 | Retail     |
-| ServerSBSPremium               | MRDK3-YYQF3-88BQJ-D6FJG-69YJY | Retail     |
-| ServerSBSPrime                 | 2KB23-GJRBD-W3T9C-6CH2W-39B7V | Retail     |
-| ServerSBSStandard              | H4XDD-B27GY-667P6-XWVV7-GYG8J | Retail     |
-| ServerStandard                 | 8YVM4-YQBDH-7WDQM-R27WR-WVCWG | Retail     |
-| ServerStandardV                | H9MW3-6V7GK-94P9G-7FTPJ-VKCKF | Retail     |
-| ServerStorageEnterprise        | 2264C-TD9T8-P8HPW-CC9GH-MHM2V | Retail     |
-| ServerStorageExpress           | RCYMT-YX342-8T6YY-XYHYC-3DD7X | Retail     |
-| ServerStorageStandard          | FKFT2-WXYY9-WBPY7-6YMY4-X48JF | Retail     |
-| ServerStorageWorkgroup         | 8X9J7-HCJ7J-3WDJT-QM7D8-464YH | Retail     |
-| ServerWeb                      | BGT39-9FYH7-X2CYD-T628F-QPQPW | Retail     |
-| ServerWinSB                    | HPH76-FHFPP-DRW9D-7W2V4-HWGKT | Retail     |
-| ServerWinSBV                   | 2V8G6-KRXYR-MMGXJ-6RWM3-GXCCG | Retail     |
 
 ### Office, Microsoft 365 Product Key list
 | Product ID | Product Name | Apps | Add-Ons | Family | Default Product Key |
@@ -149,76 +122,76 @@ and Windows from massgrave repo at [massgrave.dev/docs](https://github.com/massg
 | StandardVolume | Office Standard 2016 | Excel, Groove, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | OSM, OSMUX | Office16 | JNRGM-WHDWX-FJJG3-K47QV-DRTFM |
 ---
 ### Vista/7 KMS Key
-|  OS   |    Type    |     Brand      |               Key             |
-|---------------------------------------------------------------------|
-| Vista |  Ultimate  |      Acer      | 3YDB8-YY3P4-G7FCW-GJMPG-VK48C |
-| Vista |  Ultimate  |     Advent     | 39MVW-K8KKQ-BGJ9B-24PMW-RYQMV |
-| Vista |  Ultimate  |    Alienware   | 7QVFM-MF2DT-WXJ62-XTYX3-P9YTT |
-| Vista |  Ultimate  |      Asus      | 6F2D7-2PCG6-YQQTB-FWK9V-932CC |
-| Vista |  Ultimate  |      Dell      | 2QBP3-289MF-9364X-37XGX-24W6P |
-| Vista |  Ultimate  |    DixonsXP    | 6JPQR-4G364-2B7P7-83FXW-DR8QC |
-| Vista |  Ultimate  |    Gateway     | 6P8XK-GDDTB-X9PJQ-PYF36-G8WGV |
-| Vista |  Ultimate  |      Hedy      | 7R2C3-DWCBG-C8G96-MPT8T-K37C7 |
-| Vista |  Ultimate  |       HP       | 23CM9-P7MYR-VFWRT-JGH7R-R933G |
-| Vista |  Ultimate  |     Lenovo     | 24J6Q-YJJBG-V4K4Q-2J8HY-8HBQQ |
-| Vista |  Ultimate  |       OQO      | C4QGV-XHYYT-9PW8R-DCFTQ-FBD6M |
-| Vista |  Ultimate  |     Toshiba    | 33G3W-JY3XQ-CQQ7C-TG96R-R6J6Q |
-| Vista |  Ultimate  |      Sony      | 2KKTK-YGJKV-3WMRR-3MDQW-TJP47 |
-| Vista |  Ultimate  |      Stone     | GVV4P-RQXD7-X9XKB-M2G9H-C93VM |
-| Vista |  Ultimate  | Velocity Micro | 9BKKK-7Y888-MHD67-HHXTB-332K9 |
-|   7   | Ultimate | Acer | FJGCP-4DFJD-GJY49-VJBQ7-HYRR2
-|  7  | Ultimate | Alienware | VQ3PY-VRX6D-CBG4J-8C6R2-TCVBD
-|  7  | Ultimate | Aquarius | 76TFX-WPXFM-F3HRC-YJYVB-P6TR4
-|  7  | Ultimate | Asus | 2Y4WT-DHTBF-Q6MMK-KYK6X-VKM6G
-|  7  | Ultimate | Dell | 342DG-6YJR8-X92GV-V7DCV-P4K27
-|  7  | Ultimate | Fujitsu | 9CW99-79BBF-D4M3X-9BK9M-4RPH9
-|  7  | Ultimate | HEDY | 6RVBB-93T7R-GKQKQ-YWCJR-2TKPJ
-|  7  | Ultimate | HP | MHFPT-8C8M2-V9488-FGM44-2C9T3
-|  7  | Ultimate | Lenovo | 6K2KY-BFH24-PJW6W-9GK29-TMPWP
-|  7  | Ultimate | Samsung | 49PB6-6BJ6Y-KHGCQ-7DDY6-TF7CD
-|  7  | Ultimate | Sony | YJJYR-666KV-8T4YH-KM9TB-4PY2W
-|  7  | Ultimate | Stone | 76MTG-QMQJQ-46DQR-CHRBB-7K3HD
-|  7  | Ultimate | Tarox | 4BRY2-6W9VH-9CM6R-GPKRY-HHVCY
-|  7  | Ultimate | Toshiba | 2XQ63-J3P67-9G3JC-FHQ68-8Q2F3
-|  7  | Professional | Acer | YKHFT-KW986-GK4PY-FDWYH-7TP9F
-|  7  | Professional | Alienware | 4CFBX-7HQ6R-3JYWF-72GXP-4MV6W
-|  7  | Professional | Alienware | MPC38-VC8FK-TWPXH-TR3XV-T2Y4K
-|  7  | Professional | Aquarius | 87MQK-W9Y79-J7M7B-92RTM-MXFJG
-|  7  | Professional | Asus | 2WCJK-R8B4Y-CWRF2-TRJKB-PV9HW
-|  7  | Professional | BGH e-Nova | 4872B-B4R7J-QWCFR-YH962-RGDRW
-|  7  | Professional | ByteSpeed | 32327-2GRQK-M6H8D-2XV93-YYCCF
-|  7  | Professional | CCE | D8VYT-828P6-7V77D-P8VV7-CHC4M
-|  7  | Professional | DakTech | BDX3F-M3WPY-FTKYK-QBVD7-9DXH8
-|  7  | Professional | Dealin | 6BJ27-DVBFF-VKQC8-7JPQP-TJKYY
-|  7  | Professional | Dell | 32KD2-K9CTF-M3DJT-4J3WC-733WD
-|  7  | Professional | Fujitsu | PT9YK-BC2J9-WWYF9-R9DCR-QB9CK
-|  7  | Professional | Genuine | 26QH2-B4V28-CWVMD-38GXQ-WHFYH
-|  7  | Professional | HCL | 2QTV2-3CMPP-FQBYK-GRD62-D7XMW
-|  7  | Professional | HP | 74T2M-DKDBC-788W3-H689G-6P6GT
-|  7  | Professional | INSYS | BPM2T-G28MM-DYPRD-CDFQB-JG89V
-|  7  | Professional | Itautec | 2666Q-HGXKH-DFP6M-7YGBB-BG7Q7
-|  7  | Professional | Kraftway | 32HPJ-4XRDR-424C8-DYQM9-GM768
-|  7  | Professional | Lenovo | 237XB-GDJ7B-MV8MH-98QJM-24367
-|  7  | Professional | MA Technology | CR3MG-TDDHT-T44X2-K722W-J936F
-|  7  | Professional | Mecer | 2WGY7-J3JQT-78CF9-J6DHQ-DJTQW
-|  7  | Professional | MiTAC | 2XGJT-GV4QG-QBHPB-D6DBW-DTW9Q
-|  7  | Professional | MSI | 2W3CX-YD4YJ-DF9B2-V27M6-77GMF
-|  7  | Professional | Paragon | 32M8T-4R8Y9-X7J66-R9W3H-YDT6F
-|  7  | Professional | Positivo | 4CMG7-XWKFW-FJQVW-6XBCB-DD9CV
-|  7  | Professional | PowerSpec | 6FWJ7-TDRCV-BYTP3-JWB98-9J64J
-|  7  | Professional | Quanmax | 84TBR-V3TCM-DC73Q-TDRQ7-WHPJ4
-|  7  | Professional | Samsung | GMJQF-JC7VC-76HMH-M4RKY-V4HX6
-|  7  | Professional | SCC | GP2T3-GKR6W-7PGV2-C97HT-TYBVP
-|  7  | Professional | Seneca | 862R9-99CD6-DD6WM-GHDG2-Y8M37
-|  7  | Professional | Shuttle | 7K3CD-PXHTK-GDBRW-KH842-F9P3D
-|  7  | Professional | Sony | H9M26-6BXJP-XXFCY-7BR4V-24X8J
-|  7  | Professional | STEG | 7RQGM-4BJBD-GM2YY-R2KTT-43HG8
-|  7  | Professional | Stone | 4FXT2-THHQK-B7293-VYHKX-3DRPD
-|  7  | Professional | Tangent | CVKKG-87DDK-HK8G2-BYQ72-43KFW
-|  7  | Professional | Tarox | 72X79-RQPFF-YGK82-7FF8M-PX4XB
-|  7  | Professional | Toshiba | 2V8P2-QKJWM-4THM3-74PDB-4P2KH
-|  7  | Professional | Twinhead | 4HRQP-KTBTJ-4R9CX-4DWJ6-QFPFT
-|  7  | Professional | WIPRO | 84KJC-W886T-XQ496-YTB7W-46DTY
-|  7  | Professional | Wortmann | 6JKVQ-WJTWW-JVPRB-77TGD-2DV7M
-|  7  | Professional | Xplore | H8KMB-DPB9M-P3RYK-7JCGW-X97C3
-|  7  | Professional | Zoostorm | 6V27R-JRHC9-9W42J-37TFX-9T8Q7
+| OS    | Type         | Brand          | Key                           |
+| :--   | :--          | :--            | :--                           |
+| Vista | Ultimate     | Acer           | 3YDB8-YY3P4-G7FCW-GJMPG-VK48C |
+| Vista | Ultimate     | Advent         | 39MVW-K8KKQ-BGJ9B-24PMW-RYQMV |
+| Vista | Ultimate     | Alienware      | 7QVFM-MF2DT-WXJ62-XTYX3-P9YTT |
+| Vista | Ultimate     | Asus           | 6F2D7-2PCG6-YQQTB-FWK9V-932CC |
+| Vista | Ultimate     | Dell           | 2QBP3-289MF-9364X-37XGX-24W6P |
+| Vista | Ultimate     | DixonsXP       | 6JPQR-4G364-2B7P7-83FXW-DR8QC |
+| Vista | Ultimate     | Gateway        | 6P8XK-GDDTB-X9PJQ-PYF36-G8WGV |
+| Vista | Ultimate     | Hedy           | 7R2C3-DWCBG-C8G96-MPT8T-K37C7 |
+| Vista | Ultimate     | HP             | 23CM9-P7MYR-VFWRT-JGH7R-R933G |
+| Vista | Ultimate     | Lenovo         | 24J6Q-YJJBG-V4K4Q-2J8HY-8HBQQ |
+| Vista | Ultimate     | OQO            | C4QGV-XHYYT-9PW8R-DCFTQ-FBD6M |
+| Vista | Ultimate     | Toshiba        | 33G3W-JY3XQ-CQQ7C-TG96R-R6J6Q |
+| Vista | Ultimate     | Sony           | 2KKTK-YGJKV-3WMRR-3MDQW-TJP47 |
+| Vista | Ultimate     | Stone          | GVV4P-RQXD7-X9XKB-M2G9H-C93VM |
+| Vista | Ultimate     | Velocity Micro | 9BKKK-7Y888-MHD67-HHXTB-332K9 |
+| 7     | Ultimate     | Acer           | FJGCP-4DFJD-GJY49-VJBQ7-HYRR2 |
+| 7     | Ultimate     | Alienware      | VQ3PY-VRX6D-CBG4J-8C6R2-TCVBD |
+| 7     | Ultimate     | Aquarius       | 76TFX-WPXFM-F3HRC-YJYVB-P6TR4 |
+| 7     | Ultimate     | Asus           | 2Y4WT-DHTBF-Q6MMK-KYK6X-VKM6G |
+| 7     | Ultimate     | Dell           | 342DG-6YJR8-X92GV-V7DCV-P4K27 |
+| 7     | Ultimate     | Fujitsu        | 9CW99-79BBF-D4M3X-9BK9M-4RPH9 |
+| 7     | Ultimate     | HEDY           | 6RVBB-93T7R-GKQKQ-YWCJR-2TKPJ |
+| 7     | Ultimate     | HP             | MHFPT-8C8M2-V9488-FGM44-2C9T3 |
+| 7     | Ultimate     | Lenovo         | 6K2KY-BFH24-PJW6W-9GK29-TMPWP |
+| 7     | Ultimate     | Samsung        | 49PB6-6BJ6Y-KHGCQ-7DDY6-TF7CD |
+| 7     | Ultimate     | Sony           | YJJYR-666KV-8T4YH-KM9TB-4PY2W |
+| 7     | Ultimate     | Stone          | 76MTG-QMQJQ-46DQR-CHRBB-7K3HD |
+| 7     | Ultimate     | Tarox          | 4BRY2-6W9VH-9CM6R-GPKRY-HHVCY |
+| 7     | Ultimate     | Toshiba        | 2XQ63-J3P67-9G3JC-FHQ68-8Q2F3 |
+| 7     | Professional | Acer           | YKHFT-KW986-GK4PY-FDWYH-7TP9F |
+| 7     | Professional | Alienware      | 4CFBX-7HQ6R-3JYWF-72GXP-4MV6W |
+| 7     | Professional | Alienware      | MPC38-VC8FK-TWPXH-TR3XV-T2Y4K |
+| 7     | Professional | Aquarius       | 87MQK-W9Y79-J7M7B-92RTM-MXFJG |
+| 7     | Professional | Asus           | 2WCJK-R8B4Y-CWRF2-TRJKB-PV9HW |
+| 7     | Professional | BGH e-Nova     | 4872B-B4R7J-QWCFR-YH962-RGDRW |
+| 7     | Professional | ByteSpeed      | 32327-2GRQK-M6H8D-2XV93-YYCCF |
+| 7     | Professional | CCE            | D8VYT-828P6-7V77D-P8VV7-CHC4M |
+| 7     | Professional | DakTech        | BDX3F-M3WPY-FTKYK-QBVD7-9DXH8 |
+| 7     | Professional | Dealin         | 6BJ27-DVBFF-VKQC8-7JPQP-TJKYY |
+| 7     | Professional | Dell           | 32KD2-K9CTF-M3DJT-4J3WC-733WD |
+| 7     | Professional | Fujitsu        | PT9YK-BC2J9-WWYF9-R9DCR-QB9CK |
+| 7     | Professional | Genuine        | 26QH2-B4V28-CWVMD-38GXQ-WHFYH |
+| 7     | Professional | HCL            | 2QTV2-3CMPP-FQBYK-GRD62-D7XMW |
+| 7     | Professional | HP             | 74T2M-DKDBC-788W3-H689G-6P6GT |
+| 7     | Professional | INSYS          | BPM2T-G28MM-DYPRD-CDFQB-JG89V |
+| 7     | Professional | Itautec        | 2666Q-HGXKH-DFP6M-7YGBB-BG7Q7 |
+| 7     | Professional | Kraftway       | 32HPJ-4XRDR-424C8-DYQM9-GM768 |
+| 7     | Professional | Lenovo         | 237XB-GDJ7B-MV8MH-98QJM-24367 |
+| 7     | Professional | MA Technology  | CR3MG-TDDHT-T44X2-K722W-J936F |
+| 7     | Professional | Mecer          | 2WGY7-J3JQT-78CF9-J6DHQ-DJTQW |
+| 7     | Professional | MiTAC          | 2XGJT-GV4QG-QBHPB-D6DBW-DTW9Q |
+| 7     | Professional | MSI            | 2W3CX-YD4YJ-DF9B2-V27M6-77GMF |
+| 7     | Professional | Paragon        | 32M8T-4R8Y9-X7J66-R9W3H-YDT6F |
+| 7     | Professional | Positivo       | 4CMG7-XWKFW-FJQVW-6XBCB-DD9CV |
+| 7     | Professional | PowerSpec      | 6FWJ7-TDRCV-BYTP3-JWB98-9J64J |
+| 7     | Professional | Quanmax        | 84TBR-V3TCM-DC73Q-TDRQ7-WHPJ4 |
+| 7     | Professional | Samsung        | GMJQF-JC7VC-76HMH-M4RKY-V4HX6 |
+| 7     | Professional | SCC            | GP2T3-GKR6W-7PGV2-C97HT-TYBVP |
+| 7     | Professional | Seneca         | 862R9-99CD6-DD6WM-GHDG2-Y8M37 |
+| 7     | Professional | Shuttle        | 7K3CD-PXHTK-GDBRW-KH842-F9P3D |
+| 7     | Professional | Sony           | H9M26-6BXJP-XXFCY-7BR4V-24X8J |
+| 7     | Professional | STEG           | 7RQGM-4BJBD-GM2YY-R2KTT-43HG8 |
+| 7     | Professional | Stone          | 4FXT2-THHQK-B7293-VYHKX-3DRPD |
+| 7     | Professional | Tangent        | CVKKG-87DDK-HK8G2-BYQ72-43KFW |
+| 7     | Professional | Tarox          | 72X79-RQPFF-YGK82-7FF8M-PX4XB |
+| 7     | Professional | Toshiba        | 2V8P2-QKJWM-4THM3-74PDB-4P2KH |
+| 7     | Professional | Twinhead       | 4HRQP-KTBTJ-4R9CX-4DWJ6-QFPFT |
+| 7     | Professional | WIPRO          | 84KJC-W886T-XQ496-YTB7W-46DTY |
+| 7     | Professional | Wortmann       | 6JKVQ-WJTWW-JVPRB-77TGD-2DV7M |
+| 7     | Professional | Xplore         | H8KMB-DPB9M-P3RYK-7JCGW-X97C3 |
+| 7     | Professional | Zoostorm       | 6V27R-JRHC9-9W42J-37TFX-9T8Q7 |
