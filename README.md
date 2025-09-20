@@ -41,3 +41,4 @@ irm https://get.activated.win | iex
 - Rainmeter: [Rainmeter Download](https://github.com/rainmeter/rainmeter/releases/download/v4.5.23.3836/Rainmeter-4.5.23.exe)
 - 7tsp GUI: [Download 7tsp GUI](https://7tspgui.com/wp-content/uploads/2025/01/7tsp-GUI-v0.6.zip)
 - OldNewExplorer: [OldNewExplorer Download - MajorGeeks](https://www.majorgeeks.com/mg/getmirror/oldnewexplorer,1.html)
+- StartAllBack: [Download StartAllBack](https://www.startallback.com/download.php)
