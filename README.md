@@ -10,7 +10,10 @@ I'm just gonna drop some of the thing I can use to optimize my Windows 11 or som
 ---
 **Optimizer:**
 - Optimizer Tools from /hellzerg/optimizer : [Optimizer 16.7](https://github.com/hellzerg/optimizer/releases/download/16.7/Optimizer-16.7.exe)
+- Chris Titus Windows Utility: Run this command in PowerShell (Administrator): ``irm christitus.com/win | iex``
+---
+**Tools:**
+- Office Tool from /YerongAI/Office-Tool :[Office Tools - Releases](https://github.com/YerongAI/Office-Tool/releases/tag/v10.26.36.0)
+- Anhdvboot 25.2.7 (Windows USB Boot): [Anhdv_Boot_Free - Mediafire](https://www.mediafire.com/folder/54mfxlkkahnw1/Anhdv_Boot_Free)
 - Microsoft Activation Script (Activate Windows - Office 365 script) from massgrave: Run this command in PowerShell (Administrator): ``irm https://get.activated.win | iex``
 - ISO package (also from massgrave): [Download Windows / Office ISO](https://massgrave.dev/genuine-installation-media)
-- Chris Titus Windows Utility: Run this command in PowerShell (Administrator): ``irm christitus.com/win | iex``
-- Anhdvboot 25.2.7 (Windows USB Boot): [Anhdv_Boot_Free - Mediafire](https://www.mediafire.com/folder/54mfxlkkahnw1/Anhdv_Boot_Free)
