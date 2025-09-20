@@ -1,0 +1,149 @@
+Yes, it's the license key, not the repository license
+---
+### Windows Generic/RTM/OEM Product Key:
+- **Windows 10 Pro RTM Key :** ``NF6HC-QH89W-F8WYV-WWXV4-WFG6P``
+- **Windows 11 Pro RTM Key :** ``VK7JG-NPHTM-C97JM-9MPGT-3V66T``
+- **Windows 7 Ultimate OEM :** ``34T8Q-P39WP-6X7RP-HQC4C-VQ83B``
+- **Windows 8.1 Pre-install *(validate on the install screen)*:** ``46V6N-VCBYR-KT9KT-6Y4YF-QGJYH``
+- **Windows 8.1 KMS Client :** ``W8NRD-JQY8C-MYKKG-HYJK6-V49T7``
+- **Windows XP Professional:** ``VCFQD-V9FX9-46WVH-K3CD4-4J3JM``
+
+---
+### Office, Microsoft 365 Generic ODT Product Key:
+- **O365HomePremRetail (Microsoft 365):** ``9FNY8-PWWTY-8RY4F-GJMTV-KHGM9``
+> including Excel, OneDrive, OneNote, PowerPoint, Teams, Word and	PowerPivot add-on (Office21R)
+
+- **ProfessionalRetail (Office 2016):** ``J2VPX-NMM9V-TPYKJ-P7VT2-3YJDQ``
+> including Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word and	PowerPivot, PowerView add-on (Office16R)
+
+- **O365ProPlusRetail (Microsoft 365 Apps for enterprise):** ``DRNV7-VGMM2-B3G9T-4BF84-VMFTK``
+> including Access, Bing, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word	and DCF, OSM, OSMUX, PowerPivot add-on (M365)
+
+- **O365ProPlusRetail (Office 365 - Ohook):** ``H8DN8-Y2YP3-CR9JT-DHDR9-C7GP3``
+> including Access, Bing, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word	and DCF, OSM, OSMUX, PowerPivot add-on (M365)
+
+---
+Or you can get the full product keys for all other Office, Microsoft 365 from [Office-Tool/doc/Tech Articles/Products.md](https://github.com/YerongAI/Office-Tool/blob/00355898af79391246c028dfd2864b1fd58fdc05/doc/Tech%20Articles/Products.md) - [massgrave.dev/docs/ohook.md](https://github.com/massgravel/massgrave.dev/blob/main/docs/ohook.md)
+and Windows from massgrave repo at [massgrave.dev/docs](https://github.com/massgravel/massgrave.dev/tree/main/docs)
+
+### Full Windows 10/11 Product Key:
+| Windows 10/11 Product Names           | EditionID                | Generic Retail/OEM/MAK Key    |
+|---------------------------------------|--------------------------|-------------------------------|
+| Education                             | Education                | YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY |
+| Education N                           | EducationN               | 84NGF-MHBT6-FXBX8-QWJK7-DRR8H |
+| Enterprise                            | Enterprise               | XGVPP-NMH47-7TTHJ-W3FW7-8HV2C |
+| Enterprise N                          | EnterpriseN              | 3V6Q6-NQXCX-V8YXR-9QCYV-QPFCT |
+| Enterprise LTSB 2015                  | EnterpriseS              | FWN7H-PF93Q-4GGP8-M8RF3-MDWWW |
+| Enterprise LTSB 2016                  | EnterpriseS              | NK96Y-D9CD8-W44CQ-R8YTK-DYJWX |
+| Enterprise LTSC 2019                  | EnterpriseS              | 43TBQ-NH92J-XKTM7-KT3KK-P39PB |
+| Enterprise N LTSB 2015                | EnterpriseSN             | NTX6B-BRYC2-K6786-F6MVQ-M7V2X |
+| Enterprise N LTSB 2016                | EnterpriseSN             | 2DBW3-N2PJG-MVHW3-G7TDK-9HKR4 |
+| Home                                  | Core                     | YTMG3-N6DKC-DKB77-7M9GH-8HVX7 |
+| Home N                                | CoreN                    | 4CPRK-NM3K3-X6XXQ-RXX86-WXCHW |
+| Home China                            | CoreCountrySpecific      | N2434-X9D7W-8PF6X-8DV9T-8TYMD |
+| Home Single Language                  | CoreSingleLanguage       | BT79Q-G7N6G-PGBYW-4YWX6-6F4BT |
+| IoT Enterprise                        | IoTEnterprise            | XQQYW-NFFMW-XJPBH-K8732-CKFFD |
+| IoT Enterprise Subscription           | IoTEnterpriseK           | P8Q7T-WNK7X-PMFXY-VXHBG-RRK69 |
+| IoT Enterprise LTSC 2021              | IoTEnterpriseS           | QPM6N-7J2WJ-P88HH-P3YRH-YY74H |
+| IoT Enterprise LTSC 2024              | IoTEnterpriseS           | CGK42-GYN6Y-VD22B-BX98W-J8JXD |
+| IoT Enterprise LTSC Subscription 2024 | IoTEnterpriseSK          | N979K-XWD77-YW3GB-HBGH6-D32MH |
+| Pro                                   | Professional             | VK7JG-NPHTM-C97JM-9MPGT-3V66T |
+| Pro N                                 | ProfessionalN            | 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT |
+| Pro Education                         | ProfessionalEducation    | 8PTT6-RNW4C-6V7J2-C2D3X-MHBPB |
+| Pro Education N                       | ProfessionalEducationN   | GJTYN-HDMQY-FRR76-HVGC7-QPF8P |
+| Pro for Workstations                  | ProfessionalWorkstation  | DXG7C-N36C4-C4HTG-X4T3X-2YV77 |
+| Pro N for Workstations                | ProfessionalWorkstationN | WYPNQ-8C467-V2W6J-TX4WX-WT2RQ |
+| S                                     | Cloud                    | V3WVW-N2PV2-CGWC3-34QGF-VMJ2C |
+| S N                                   | CloudN                   | NH9J3-68WK7-6FB93-4K3DF-DJ4F6 |
+| SE                                    | CloudEdition             | KY7PN-VR6RX-83W6Y-6DDYQ-T6R4W |
+| SE N                                  | CloudEditionN            | K9VKN-3BGWV-Y624W-MCRMQ-BHDCD |
+| Team                                  | PPIPro                   | XKCNC-J26Q9-KFHD2-FKTHY-KD72Y |
+
+### Windows Vista 
+| Edition      | Generic Key                   | Key Type |
+|--------------|-------------------------------|----------|
+| Business     | 4D2XH-PRBMM-8Q22B-K8BM3-MRW4W | Retail   |
+| BusinessN    | 76884-QXFY2-6Q2WX-2QTQ8-QXX44 | Retail   |
+| Enterprise   | YQPQV-RW8R3-XMPFG-RXG9R-JGTVF | Retail   |
+| EnterpriseN  | Q7J9R-G63R4-BFMHF-FWM9R-RWDMV | Retail   |
+| HomeBasic    | RCG7P-TX42D-HM8FM-TCFCW-3V4VD | Retail   |
+| HomeBasicN   | HY2VV-XC6FF-MD6WV-FPYBQ-GFJBT | Retail   |
+| HomePremium  | X9HTF-MKJQQ-XK376-TJ7T4-76PKF | Retail   |
+| HomePremiumN | KJ6TP-PF9W2-23T3Q-XTV7M-PXDT2 | Retail   |
+| Starter      | X9PYV-YBQRV-9BXWV-TQDMK-QDWK4 | Retail   |
+| Ultimate     | VMCB9-FDRV6-6CDQM-RV23K-RP8F7 | Retail   |
+| UltimateN    | CVX38-P27B4-2X8BT-RXD4J-V7CKX | Retail   |
+
+### Windows Server 2008
+| Edition                        | Generic Key                   | Key Type   |
+|--------------------------------|-------------------------------|------------|
+| ServerComputeCluster           | 24FV9-H7JW8-C8Q6X-BQKMK-K977J | Retail     |
+| ServerDatacenter               | 6QBHY-DXTPJ-T9W3P-DTJXX-4VQMB | Retail     |
+| ServerDatacenterV              | 83TWG-TD3TC-HRDP2-K93FJ-Y34YC | OEM:NONSLP |
+| ServerEnterprise               | MRB7H-QJRHG-FXTBR-B2Q2M-8WMTJ | Retail     |
+| ServerEnterpriseIA64           | H4VB6-QPRWH-VDCYM-996P8-MHKFY | OEM:NONSLP |
+| ServerEnterpriseV              | H8H7M-HDPQT-PJHQF-M7B83-9CVGV | Retail     |
+| ServerHomePremium              | RGBMC-PQBVF-94Q9K-HD63B-VY6MP | Retail     |
+| ServerHomeStandard             | 6C8KR-MD3QK-9GWFW-44CY2-W9CBM | Retail     |
+| ServerMediumBusinessManagement | 7XRBY-6MP2K-VQPT8-F37JV-YYQ83 | Retail     |
+| ServerMediumBusinessMessaging  | 6PDTD-JK48J-662TF-8J2QV-R4CRB | Retail     |
+| ServerMediumBusinessSecurity   | D694V-CMWKH-PY92X-PFQKQ-JCB69 | Retail     |
+| ServerSBSPremium               | MRDK3-YYQF3-88BQJ-D6FJG-69YJY | Retail     |
+| ServerSBSPrime                 | 2KB23-GJRBD-W3T9C-6CH2W-39B7V | Retail     |
+| ServerSBSStandard              | H4XDD-B27GY-667P6-XWVV7-GYG8J | Retail     |
+| ServerStandard                 | 8YVM4-YQBDH-7WDQM-R27WR-WVCWG | Retail     |
+| ServerStandardV                | H9MW3-6V7GK-94P9G-7FTPJ-VKCKF | Retail     |
+| ServerStorageEnterprise        | 2264C-TD9T8-P8HPW-CC9GH-MHM2V | Retail     |
+| ServerStorageExpress           | RCYMT-YX342-8T6YY-XYHYC-3DD7X | Retail     |
+| ServerStorageStandard          | FKFT2-WXYY9-WBPY7-6YMY4-X48JF | Retail     |
+| ServerStorageWorkgroup         | 8X9J7-HCJ7J-3WDJT-QM7D8-464YH | Retail     |
+| ServerWeb                      | BGT39-9FYH7-X2CYD-T628F-QPQPW | Retail     |
+| ServerWinSB                    | HPH76-FHFPP-DRW9D-7W2V4-HWGKT | Retail     |
+| ServerWinSBV                   | 2V8G6-KRXYR-MMGXJ-6RWM3-GXCCG | Retail     |
+
+### Office, Microsoft 365 Product Key list
+| Product ID | Product Name | Apps | Add-Ons | Family | Default Product Key |
+| :--        | :--          | :--  | :--     | :--    | :--                 |
+| Home2024Retail | Office Home 2024 | Excel, OneDrive, OneNote, PowerPoint, Word | PowerPivot | Office24R | NHM39-W2C2G-6FXWB-KT7MM-QJ7KX |
+| HomeBusiness2019Retail | Office Home and Business 2019 | Excel, OneDrive, OneNote, Outlook, PowerPoint, Word | PowerPivot | Office19R | 3F4GT-DN2RR-B89CP-8KVPC-J46MR |
+| HomeBusiness2021Retail | Office Home and Business 2021 | Excel, OneDrive, OneNote, Outlook, PowerPoint, Teams, Word | PowerPivot | Office21R | QGTQ3-RNVPB-6YJ23-Y32R4-X2HMD |
+| HomeBusiness2024Retail | Office Home and Business 2024 | Excel, OneDrive, OneNote, Outlook, PowerPoint, Word | PowerPivot | Office24R | T426N-Y4VXF-PGJBK-YXH79-BKRT8 |
+| HomeBusinessPipcRetail | Office Home and Business Premium | Excel, OneDrive, OneNote, Outlook, PowerPoint, Word |  | Office16 | NMRD9-JVD2M-7MDJG-3DBC4-GXWPX |
+| HomeBusinessRetail | Office Home and Business 2016 | Excel, OneDrive, OneNote, Outlook, PowerPoint, Word |  | Office16R | NKVRG-XP9FX-FKFRD-2HXY2-D6928 |
+| HomeStudent2019Retail | Office Home and Student 2019 | Excel, OneDrive, OneNote, PowerPoint, Word | PowerPivot | Office19R | NTMYR-DM4C3-MHK32-7QBRC-RVXB8 |
+| HomeStudent2021Retail | Office Home and Student 2021 | Excel, OneDrive, OneNote, PowerPoint, Teams, Word | PowerPivot | Office21R | PB2D6-G4NJR-4CD7B-DF7RH-9BXFH |
+| HomeStudentRetail | Office Home and Student 2016 | Excel, OneDrive, OneNote, PowerPoint, Word |  | Office16R | RGNMP-V32H3-QBWXM-BF7XR-DJ3QD |
+| HomeStudentVNextRetail | Office Home and Student 2016 | Excel, OneDrive, OneNote, PowerPoint, Word |  | Office16 | T2NP2-GM3V4-VYBYW-HT963-B99M9 |
+| MondoRetail | Office Mondo 2016 | Access, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Project, Publisher, Visio, Word | DCF, MondoOnly, OSM, OSMUX, PowerPivot | Office16R | DMTCJ-KNRKX-26982-JYCKT-P7KB6 |
+| MondoVolume | Office Mondo 2016 | Access, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Project, Publisher, Visio, Word | DCF, MondoOnly, OSM, OSMUX, PowerPivot | Office16R | HFTND-W9MK4-8B7MJ-B6C4G-XQBR2 |
+| O365AppsBasicRetail | Microsoft 365 Apps Basic | Excel, OneDrive, OneNote, PowerPoint, Word | PowerPivot | M365 | 3HYJN-9KG99-F8VG9-V3DT8-JFMHV |
+| O365BusinessRetail | Microsoft 365 Apps for business | Access, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word | PowerPivot | M365 | NCHRJ-3VPGW-X73DM-6B36K-3RQ6B |
+| O365EduCloudRetail | Microsoft 365 | Excel, OneDrive, OneNote, PowerPoint, Word | PowerPivot | M365 | 8843N-BCXXD-Q84H8-R4Q37-T3CPT |
+| O365HomePremRetail | Microsoft 365 | Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | PowerPivot | M365 | 9FNY8-PWWTY-8RY4F-GJMTV-KHGM9 |
+| O365ProPlusRetail | Microsoft 365 Apps for enterprise | Access, Bing, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word | DCF, OSM, OSMUX, PowerPivot | M365 | DRNV7-VGMM2-B3G9T-4BF84-VMFTK |
+| O365SmallBusPremRetail | Microsoft 365 Small Business Premium | Access, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word | PowerPivot | M365 | 3FBRX-NFP7C-6JWVK-F2YGK-H499R |
+| Personal2019Retail | Office Personal 2019 | Excel, OneDrive, Outlook, Word |  | Office19R | VQFTQ-GNRXK-HCVHQ-DWJDJ-JFJHV |
+| Personal2021Retail | Office Personal 2021 | Excel, OneDrive, Outlook, Teams, Word |  | Office21R | WN2B7-QJPXV-93VY2-6WTH3-BHC6H |
+| PersonalPipcRetail | Office Personal Premium | Excel, OneDrive, Outlook, Word |  | Office16 | RV7NR-XV7HY-VM488-H6JCC-J4287 |
+| PersonalRetail | Office Personal 2016 | Excel, OneDrive, Outlook, Word |  | Office16R | CJKFJ-WNWBK-29CW7-P9786-C9X7Y |
+| Professional2019Retail | Office Professional 2019 | Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | PowerPivot, PowerView | Office19R | 7PND3-J7G8B-9M7V3-8VXHR-QGQYY |
+| Professional2021Retail | Office Professional 2021 | Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word | PowerPivot | Office21R | G7R2D-6NQ7C-CX62B-9YR9J-DGRYH |
+| ProfessionalPipcRetail | Office Professional Premium | Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word |  |  | Q6NGD-M6J3Y-29HGJ-3RB6Y-G29KC |
+| ProfessionalRetail | Office Professional 2016 | Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | PowerPivot, PowerView | Office16R | J2VPX-NMM9V-TPYKJ-P7VT2-3YJDQ |
+| ProPlus2019Retail | Office Professional Plus 2019 | Access, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | DCF, OSM, OSMUX, PowerPivot, PowerView | Office19R | Y64MN-DK448-Q3VK7-YBTP3-8MBCX |
+| ProPlus2019Volume | Office Professional Plus 2019 | Access, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | DCF, OSM, OSMUX, PowerPivot, PowerView | Office19 | NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP |
+| ProPlus2021Retail | Office Professional Plus 2021 | Access, Excel, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word | DCF, OSM, OSMUX, PowerPivot | Office21R | YNYDT-B8RMY-G8WJX-RPTY2-PG343 |
+| ProPlus2021Volume | Office LTSC Professional Plus 2021 | Access, Excel, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word | DCF, OSM, OSMUX, PowerPivot | Office21 | FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH |
+| ProPlusSPLA2021Volume | Office LTSC Professional Plus 2021 (SPLA) | Access, Excel, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | DCF, OSM, OSMUX, PowerPivot | Office21 | HNQ22-HGCKV-RK4TT-47RH9-BKQ9B |
+| ProPlus2024Retail | Office Professional Plus 2024 | Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Word | DCF, PowerPivot | Office24R | HD4NY-QVXPH-VPXH8-YY4WV-R9GQV |
+| ProPlus2024Volume | Office LTSC Professional Plus 2024 | Access, Excel, Lync, OneDrive, OneNote, Outlook, PowerPoint, Word | DCF, PowerPivot | Office24 | XJ2XN-FW8RK-P4HMP-DKDBV-GCVGB |
+| ProPlusRetail | Office Professional Plus 2016 | Access, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | DCF, OSM, OSMUX, PowerPivot, PowerView | Office16R | CYC3N-BHX8G-QJVJV-H2WWP-BTDRB |
+| ProPlusVolume | Office Professional Plus 2016 | Access, Excel, Groove, Lync, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | DCF, OSM, OSMUX, PowerPivot, PowerView | Office16 | XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99 |
+| Standard2019Retail | Office Standard 2019 | Excel, Groove, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | OSM, OSMUX, PowerPivot | Office19R | MKFY8-QNW8D-YKV28-H2CJD-Y4JMV |
+| Standard2019Volume | Office Standard 2019 | Excel, Groove, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | OSM, OSMUX, PowerPivot | Office19 | 6NWWJ-YQWMR-QKGCB-6TMB3-9D9HK |
+| Standard2021Retail | Office Standard 2021 | Excel, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word | OSM, OSMUX, PowerPivot | Office21R | RXK2W-N42KP-FT9W3-Q7DG8-TRBHK |
+| Standard2021Volume | Office LTSC Standard 2021 | Excel, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Teams, Word | OSM, OSMUX, PowerPivot | Office21 | KDX7X-BNVR8-TXXGX-4Q7Y8-78VT3 |
+| StandardSPLA2021Volume | Office LTSC Standard 2021 (SPLA) | Excel, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | OSM, OSMUX, PowerPivot | Office21 | TM6RK-NFD7H-9YFHK-7M82B-HVDC2 |
+| Standard2024Volume | Office LTSC Standard 2024 | Excel, OneDrive, OneNote, Outlook, PowerPoint, Word | PowerPivot | Office24 | V28N4-JG22K-W66P8-VTMGK-H6HGR |
+| StandardRetail | Office Standard 2016 | Excel, Groove, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | OSM, OSMUX | Office16R | PCCXN-7MKB3-F986V-V6HV4-CR4MR |
+| StandardVolume | Office Standard 2016 | Excel, Groove, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Word | OSM, OSMUX | Office16 | JNRGM-WHDWX-FJJG3-K47QV-DRTFM |
