@@ -158,11 +158,16 @@
 
         /* Icon Styling */
         .card-icon {
-            font-size: 20px;
             margin-right: 15px;
-            width: 24px;
-            text-align: center;
-            padding-top: 2px;
+    width: 28px; 
+    height: center;
+    text-align: center;
+    flex-shrink: 0;
+    /* Use flex to perfectly center the image/SVG */
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    padding-top: 0; /* Remove padding-top */
         }
 
         /* Text Styling */
@@ -170,6 +175,13 @@
             display: flex;
             flex-direction: column;
         }
+
+        .card-icon .custom-icon {
+    width: 30px; /* Set the desired width for your icon */
+    height: 30px; /* Set the desired height */
+    /* Ensure the image scales correctly if it's an SVG or high-res PNG */
+    object-fit: contain; 
+}
 
         .card-title {
             font-weight: 600; /* Segoe UI Semibold equivalent */
@@ -267,7 +279,9 @@
 
         <a href="https://github.com/hellzerg/optimizer/releases/download/16.7/Optimizer-16.7.exe" class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-solid fa-laptop"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text">
                     <span class="card-title">Optimizer Tool</span>
                     <span class="card-desc">A tool from Hellzerg to optimize Windows</span>
@@ -277,7 +291,9 @@
 
         <a href="https://www.officetool.plus/redirect/download.php?site=cloudflare&type=runtime&arch=x64" class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-solid fa-print"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text">
                     <span class="card-title">Office Tool Plus</span>
                     <span class="card-desc">Install MS Office apps for free</span>
@@ -287,7 +303,9 @@
 
         <a href="https://www.mediafire.com/folder/54mfxlkkahnw1/Anhdv_Boot_Free" class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-solid fa-mobile-screen"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text">
                     <span class="card-title">Anhdv Boot (Free)</span>
                     <span class="card-desc">7z file providing Windows PE on USE or useful utilities to troubleshoots (support WinPE for Rufus)</span>
@@ -297,7 +315,9 @@
 
         <a href="https://www.majorgeeks.com/mg/getmirror/winntsetup_64_bit,1.html" class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-solid fa-globe"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text">
                     <span class="card-title">WinNTSetup</span>
                     <span class="card-desc">A tool to install Windows with some extended features, directly on your disk</span>
@@ -307,7 +327,9 @@
 
         <a href="https://github.com/0nix210/windows-loader-by-daz/raw/refs/heads/main/Windows%20Loader.exe" class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-solid fa-pen-ruler"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text">
                     <span class="card-title">Windows Loader</span>
                     <span class="card-desc">Activate Windows from KMSpico services</span>
@@ -317,7 +339,9 @@
 
         <a href="https://github.com/ionuttbara/windows-defender-remover/releases/download/release_def_12_8_4/DefenderRemover.exe" class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-solid fa-list"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text">
                     <span class="card-title">Defender Remover</span>
                     <span class="card-desc">Uninstall Windows Defender and all its services</span>
@@ -327,7 +351,9 @@
 
         <a href="https://ramensoftware.com/downloads/windhawk_setup.exe" class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-regular fa-user"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text">
                     <span class="card-title">Windhawk</span>
                     <span class="card-desc">The customization marketplace for Windows and programs</span>
@@ -337,7 +363,9 @@
 
         <a href="https://github.com/rainmeter/rainmeter/releases/download/v4.5.23.3836/Rainmeter-4.5.23.exe" class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-solid fa-font"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text">
                     <span class="card-title">Rainmeter</span>
                     <span class="card-desc">A desktop custimization tool on Windows</span>
@@ -347,7 +375,9 @@
 
         <a href="https://www.majorgeeks.com/mg/getmirror/oldnewexplorer,1.html" class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-brands fa-xbox"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text">
                     <span class="card-title">OldNewExplorer</span>
                     <span class="card-desc">Modifying your explorer file (taskbar, file manager,...)</span>
@@ -357,7 +387,9 @@
 
         <a href="https://7tspgui.com/wp-content/uploads/2025/01/7tsp-GUI-v0.6.zip" class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-solid fa-wheelchair"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text">
                     <span class="card-title">7tsp GUI</span>
                     <span class="card-desc">A tool to install and apply custom icon packs</span>
@@ -367,7 +399,9 @@
 
         <a href="https://www.startallback.com/download.php" class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-solid fa-magnifying-glass"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text">
                     <span class="card-title">StartAllBack</span>
                     <span class="card-desc">Let you customize your taskbar, file manager, Control Panel, start menu,...</span>
@@ -377,7 +411,9 @@
 
         <a href="https://github.com/jtlw99/mydockfinder-steam-free/releases/download/1.9.7.4/MyDockFinder_Cracked_Ver_1.9.7.4.rar" class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-solid fa-lock"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text">
                     <span class="card-title">MyDockFinder 2024</span>
                     <span class="card-desc">Password: piracyisbadmkay</span>
@@ -388,7 +424,9 @@
 
         <div class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-solid fa-terminal"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text" style="width: 100%;">
                     <span class="card-title">Microsoft Activation Script</span>
                     <span class="card-desc">Activate, update all Windows/Office versions.<br>Run the below command in PowerShell (Administrator):</span>
@@ -402,7 +440,9 @@
 
         <div class="card">
     <div class="card-inner">
-        <div class="card-icon"><i class="fa-brands fa-python"></i></div>
+        <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
         <div class="card-text" style="width: 100%;">
             <span class="card-title">Win11Debloat</span>
             <span class="card-desc">Debloat Windows 11, remove unnecessary software & features.<br>Run the below command in PowerShell (Administrator):</span>
@@ -416,7 +456,9 @@
 
         <div class="card">
             <div class="card-inner">
-                <div class="card-icon"><i class="fa-solid fa-wifi"></i></div>
+                <div class="card-icon">
+                    <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/opt.png" "alt=Optimizer">
+                </div>
                 <div class="card-text" style="width: 100%;">
                     <span class="card-title">Chris Titus Tools</span>
                     <span class="card-desc">Lots of winget apps, disable Windows Update and optimizer.<br>Run the below command in PowerShell (Administrator)</span>
