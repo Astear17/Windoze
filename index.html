@@ -7,7 +7,6 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <style>
         :root {
-            /* Light Mode (Default Windows Look) */
             --bg-color: #ffffff;
             --text-color: #000000;
             --subtext-color: #666666;
@@ -17,9 +16,7 @@
             --search-border: #000000;
             --input-bg: #f3f3f3;
         }
-
         [data-theme="dark"] {
-            /* Dark Mode */
             --bg-color: #121212;
             --text-color: #ffffff;
             --subtext-color: #a0a0a0;
@@ -29,16 +26,12 @@
             --search-border: #ffffff;
             --input-bg: #2d2d2d;
         }
-
         * {
             box-sizing: border-box;
         }
-
-        /* STRICT SEGOE UI ENFORCEMENT */
         body, button, input, textarea, select {
             font-family: "Segoe UI", "Segoe UI Web (West European)", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
         }
-
         body {
             background-color: var(--bg-color);
             color: var(--text-color);
@@ -50,8 +43,6 @@
             min-height: 100vh;
             transition: background 0.3s, color 0.3s;
         }
-
-        /* --- Header & Search Section --- */
         .top-bar {
             width: 100%;
             padding: 15px 30px;
@@ -59,7 +50,6 @@
             justify-content: space-between;
             align-items: center;
         }
-
         .nav-btn {
             background: transparent;
             border: none;
@@ -71,7 +61,6 @@
         }
         .nav-btn:hover { background: var(--card-hover-bg); }
         .nav-btn a { color: inherit; text-decoration: none; }
-
         .header-content {
             text-align: center;
             margin-top: 20px;
@@ -79,30 +68,26 @@
             width: 100%;
             max-width: 600px;
         }
-
         h1 {
-            font-weight: 300; /* Windows headers are usually thin/light */
+            font-weight: 300; 
             font-size: 28px;
             margin-bottom: 20px;
         }
-
         .search-container {
             position: relative;
             width: 100%;
             max-width: 500px;
             margin: 0 auto;
         }
-
         .search-input {
             width: 100%;
             padding: 10px 15px;
             font-size: 15px;
-            border: 2px solid var(--text-color); /* Windows style bold border */
+            border: 2px solid var(--text-color);
             background: var(--bg-color);
             color: var(--text-color);
             outline: none;
         }
-        
         .search-icon {
             position: absolute;
             right: 15px;
@@ -110,34 +95,26 @@
             transform: translateY(-50%);
             color: var(--text-color);
         }
-
-        /* --- Grid Layout --- */
         .settings-grid {
             display: grid;
-            /* Adaptive columns: roughly 260px minimum width per card */
             grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); 
             gap: 16px; 
             width: 100%;
             max-width: 1200px; 
             padding: 0 40px 60px 40px;
         }
-
-        /* --- The Card --- */
         .card {
             position: relative;
             background-color: transparent; 
             text-decoration: none;
             color: inherit;
             display: flex;
-            padding: 2px; /* Space for the border glow */
+            padding: 2px;
             border-radius: 4px;
             cursor: default;
         }
-        
-        /* Interactive Link Cards */
+    
         a.card { cursor: pointer; }
-
-        /* The Content inside the card */
         .card-inner {
             background-color: var(--bg-color); 
             width: 100%;
@@ -150,74 +127,57 @@
             z-index: 2;
             transition: background-color 0.2s;
         }
-
-        /* On Hover: Light up background slightly */
         .card:hover .card-inner {
             background-color: var(--card-hover-bg);
         }
-
-        /* Icon Styling */
         .card-icon {
             margin-right: 15px;
     width: 28px; 
     height: center;
     text-align: center;
     flex-shrink: 0;
-    /* Use flex to perfectly center the image/SVG */
     display: flex; 
     align-items: center;
     justify-content: center;
-    padding-top: 0; /* Remove padding-top */
+    padding-top: 0; 
         }
-
-        /* Text Styling */
         .card-text {
             display: flex;
             flex-direction: column;
         }
-
         .card-icon .custom-icon {
-    width: 30px; /* Set the desired width for your icon */
-    height: 30px; /* Set the desired height */
-    /* Ensure the image scales correctly if it's an SVG or high-res PNG */
+    width: 30px;
+    height: 30px;
     object-fit: contain; 
 }
-
         .card-title {
-            font-weight: 600; /* Segoe UI Semibold equivalent */
+            font-weight: 600; 
             font-size: 15px;
             margin-bottom: 4px;
         }
-
         .card-desc {
             font-size: 13px;
             color: var(--subtext-color);
             line-height: 1.3;
             font-weight: 400;
         }
-
-        /* --- Reveal Highlight Effect (Border Glow) --- */
         .card::before {
-            content: "";
-            position: absolute;
-            top: 0; left: 0; right: 0; bottom: 0;
-            border-radius: 4px;
-            z-index: 1;
-            /* The Gradient follows mouse coordinates set by JS */
-            background: radial-gradient(
-                200px circle at var(--mouse-x) var(--mouse-y), 
-                var(--glow-color), 
-                transparent 40%
-            );
-            opacity: 0; /* Hidden by default */
-            transition: opacity 0.3s;
-        }
-
-        .settings-grid:hover .card::before {
-            opacity: 1; /* Show glow when mouse enters the grid */
-        }
-
-        /* --- Copy Section Styling --- */
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    border-radius: 4px;
+    z-index: 1;
+    background: radial-gradient(
+        150px circle at var(--mouse-x) var(--mouse-y), 
+        var(--glow-color), 
+        transparent 60% 
+    );
+    opacity: 0; 
+    transition: opacity 0.3s;
+}
+.settings-grid:hover .card::before {
+    opacity: 1; 
+}
         .copy-area {
             margin-top: 8px;
             display: flex;
@@ -225,7 +185,6 @@
             gap: 5px;
             width: 100%;
         }
-
         .cmd-input {
             background: var(--input-bg);
             border: 1px solid var(--border-color);
@@ -233,10 +192,8 @@
             padding: 4px 8px;
             font-size: 12px;
             width: 100%;
-            /* Explicitly inherit font to ensure Segoe UI */
             font-family: inherit; 
         }
-
         .action-btn {
             align-self: flex-start;
             background: var(--border-color);
@@ -249,8 +206,6 @@
             font-weight: 600;
         }
         .action-btn:active { transform: translateY(1px); }
-
-        /* Mobile Fix */
         @media (max-width: 600px) {
             .settings-grid {
                 grid-template-columns: 1fr;
@@ -261,7 +216,6 @@
     </style>
 </head>
 <body data-theme="light">
-
     <div class="top-bar">
         <button class="nav-btn">
             <a href="https://astear17.github.io"><i class="fa-solid fa-arrow-left"></i></a>
@@ -270,13 +224,10 @@
             <i class="fa-solid fa-circle-half-stroke"></i>
         </button>
     </div>
-
     <div class="header-content">
         <h1><p>Windoze</p></h1>
     </div>
-
     <div class="settings-grid" id="grid">
-
         <a href="https://github.com/hellzerg/optimizer/releases/download/16.7/Optimizer-16.7.exe" class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -288,7 +239,6 @@
                 </div>
             </div>
         </a>
-
         <a href="https://www.officetool.plus/redirect/download.php?site=cloudflare&amp;type=runtime&amp;arch=x64" class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -300,7 +250,6 @@
                 </div>
             </div>
         </a>
-
         <a href="https://www.mediafire.com/folder/54mfxlkkahnw1/Anhdv_Boot_Free" class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -312,7 +261,6 @@
                 </div>
             </div>
         </a>
-
         <a href="https://www.majorgeeks.com/mg/getmirror/winntsetup_64_bit,1.html" class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -324,7 +272,6 @@
                 </div>
             </div>
         </a>
-
         <a href="https://github.com/0nix210/windows-loader-by-daz/raw/refs/heads/main/Windows%20Loader.exe" class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -336,7 +283,6 @@
                 </div>
             </div>
         </a>
-
         <a href="https://github.com/ionuttbara/windows-defender-remover/releases/download/release_def_12_8_4/DefenderRemover.exe" class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -348,7 +294,6 @@
                 </div>
             </div>
         </a>
-
         <a href="https://ramensoftware.com/downloads/windhawk_setup.exe" class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -360,7 +305,6 @@
                 </div>
             </div>
         </a>
-
         <a href="https://github.com/rainmeter/rainmeter/releases/download/v4.5.23.3836/Rainmeter-4.5.23.exe" class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -372,7 +316,6 @@
                 </div>
             </div>
         </a>
-
         <a href="https://www.majorgeeks.com/mg/getmirror/oldnewexplorer,1.html" class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -384,7 +327,6 @@
                 </div>
             </div>
         </a>
-
         <a href="https://7tspgui.com/wp-content/uploads/2025/01/7tsp-GUI-v0.6.zip" class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -396,7 +338,6 @@
                 </div>
             </div>
         </a>
-
         <a href="https://www.startallback.com/download.php" class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -408,20 +349,17 @@
                 </div>
             </div>
         </a>
-
-        <a href="https://github.com/jtlw99/mydockfinder-steam-free/releases/download/1.9.7.4/MyDockFinder_Cracked_Ver_1.9.7.4.rar" class="card">
+        <a href="https://github.com/Astear17/Windoze/releases/download/1.0/MyDockFinder_2024_Freeware_VINSTAR.zip" class="card">
             <div class="card-inner">
                 <div class="card-icon">
                     <img class="custom-icon" src="https://raw.githubusercontent.com/Astear17/Windoze/refs/heads/main/mdf.png">
                 </div>
                 <div class="card-text">
                     <span class="card-title">MyDockFinder 2024</span>
-                    <span class="card-desc">Password: piracyisbadmkay</span>
+                    <span class="card-desc">A customization tool that serve yopu MacOS</span>
                 </div>
             </div>
         </a>
-
-
         <div class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -437,7 +375,6 @@
                 </div>
             </div>
         </div>
-
         <div class="card">
     <div class="card-inner">
         <div class="card-icon">
@@ -453,7 +390,6 @@
         </div>
     </div>
 </div>
-
         <div class="card">
             <div class="card-inner">
                 <div class="card-icon">
@@ -469,35 +405,26 @@
                 </div>
             </div>
         </div>
-
     </div>
-
     <script>
-        // --- 1. MOUSE TRACKING FOR REVEAL EFFECT ---
         const grid = document.getElementById("grid");
         const cards = document.getElementsByClassName("card");
-
         grid.onmousemove = e => {
             for(const card of cards) {
                 const rect = card.getBoundingClientRect();
                 const x = e.clientX - rect.left;
                 const y = e.clientY - rect.top;
                 
-                // Update CSS variables for the glow position
                 card.style.setProperty("--mouse-x", `${x}px`);
                 card.style.setProperty("--mouse-y", `${y}px`);
             }
         };
-
-        // --- 2. THEME SWITCHER ---
         const themeBtn = document.getElementById('themeToggle');
         themeBtn.addEventListener('click', () => {
             const body = document.body;
             const current = body.getAttribute('data-theme');
             body.setAttribute('data-theme', current === 'dark' ? 'light' : 'dark');
         });
-
-        // --- 3. COPY FUNCTION ---
         function copyToClip(btn, text) {
             navigator.clipboard.writeText(text).then(() => {
                 let original = btn.innerText;
